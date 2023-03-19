@@ -351,7 +351,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .grey {
   padding: 0 10px;
 }
 
@@ -546,23 +546,23 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .grey-text */
 
-.teal-text {
-  color: #008073 !important;
+.grey-text {
+  color: #444 !important;
 }
 
-/* .teal-text {
+/* .grey-text {
   color: #0b5e86 !important;
 } */
 
-/* .teal */
+/* .grey */
 
-.teal {
-  background-color: #008073 !important;
+.grey {
+  background-color: #333 !important;
 }
 
-/* .teal {
+/* .grey {
   background-color: #00695c !important;
 } */
 
