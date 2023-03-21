@@ -557,6 +557,10 @@ small {
   display: none;
 }
 
+.grey-transparent {
+  background-color: rgb(200, 200, 200,0.2) !important;; 
+}
+
 .grey-text {
   color: #666 !important;
 }
